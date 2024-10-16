@@ -1,17 +1,17 @@
 
 # SANKET
 
-SANKET is an innovative gesture detection system designed to translate Nepali Sign Language into text and speech, focusing specifically on recognizing the Nepali alphabet. By employing keypoint classification and a TensorFlow Lite model, SANKET achieves an impressive accuracy of 88%. This project aims to empower the hearing-impaired community in Nepal by enhancing communication and fostering social inclusion.
+SANKET.ai is an innovative gesture detection system designed to translate Nepali Sign Language into text and speech, focusing specifically on recognizing the Nepali alphabet. By employing keypoint classification and a TensorFlow Lite model, SANKET.ai achieves an impressive accuracy of 88%. This project aims to empower the hearing-impaired community in Nepal by enhancing communication and fostering social inclusion.
 
 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/CroxxN/NSL.git
+   git clone https://github.com/evanzz7/Sanket.ai.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd NSL
+   cd Sanket.ai
    ```
 3. Install the required dependencies:
    ```bash
